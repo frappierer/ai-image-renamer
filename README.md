@@ -16,7 +16,7 @@ This repository contains a Python script that utilizes AI to automatically renam
 - Clone or download the repository
 - Install PIL by running `pip install pillow`
 - Replace `YOUR_SUBSCRIPTION_KEY` in the script with your actual subscription key
-- Replace `endpoint_url` in the script with the desired endpoint URL (default is "https://westcentralus.api.cognitive.microsoft.com")
+- Replace `endpoint_url` in the script with the desired endpoint URL.
 
 ### Usage
 - Run the script with the command `python script.py image_folder [recursive]`
