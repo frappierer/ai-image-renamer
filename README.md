@@ -24,6 +24,9 @@ This repository contains a Python script that utilizes AI to automatically renam
 - `image_folder` is the path to the folder containing your images
 - `recursive` is an optional argument that, if provided, will make the script search for images in all subfolders.
 
+![GIF Recording 2023-01-20 at 12 09 14 PM](https://user-images.githubusercontent.com/4376185/213681784-d0140bf8-9a12-43de-9340-ec16767629d8.gif)
+
+
 ### Examples
 Default: `python3 ai-image-renamer.py "/Users/martinaltmann/Downloads/Website images cleaned/test"` will rename all images in that folder
 
