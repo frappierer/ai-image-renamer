@@ -26,6 +26,7 @@ This repository contains a Python script that utilizes AI to automatically renam
 
 ### Examples
 Default: `python3 ai-image-renamer.py "/Users/martinaltmann/Downloads/Website images cleaned/test"` will rename all images in that folder
+
 Recursive: `python3 ai-image-renamer.py "/Users/martinaltmann/Downloads/Website images cleaned/test" recursive` will rename all images in that folder + subfolders
 
 ## Note
